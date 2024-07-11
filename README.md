@@ -1,7 +1,4 @@
-<div id="header" align="right">
-  <img width="260" height="260" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
-</div>
-# Hi, I’m Mythili S,Tech Enthusiast
+Hi, I’m Mythili S,Tech Enthusiast
  -  👀 I’m interested in Software development & IoT
  -  🌱 I’m currently learning SQL
  -  💞️ I’m looking to collaborate on Cloud computing
