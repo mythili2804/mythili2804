@@ -1,11 +1,11 @@
-<div id="header" align="center">
+<div id="header" align="right">
   <img width="260" height="260" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
 </div>
   👋 Hi, I’m Mythili S,Tech Enthusiast
 - 👀 I’m interested in Software development & IoT
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Cloud computing
-- 📫 How to reach me : [https://www.linkedin.com/in/mythili-sakthivel-2abab7263/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
+- 📫 How to reach me : [https://www.linkedin.com/in/mythili-sakthivel-2abab7263/]
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a Nature Lover🍀
 
