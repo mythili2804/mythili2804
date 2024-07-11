@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software development & IoT
 - 🌱 I’m currently learning SQL
 - 💞️ I’m looking to collaborate on Cloud computing
-- 📫 How to reach me : <img [https://www.linkedin.com/in/mythili-sakthivel-2abab7263/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) >
+- 📫 How to reach me :  ![https://www.linkedin.com/in/mythili-sakthivel-2abab7263/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am a Nature Lover🍀
 
