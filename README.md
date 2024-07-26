@@ -1,4 +1,4 @@
-Hi, I’m Mythili S,Tech Enthusiast
+Hi, I’m Mythili S,*Tech Enthusiast*
  -  👀 I’m interested in Software development & IoT
  -  🌱 I’m currently learning SQL
  -  💞️ I’m looking to collaborate on Cloud computing
