@@ -2,7 +2,7 @@ Hi, I’m Mythili S,*Tech Enthusiast*
  -  👀 I’m interested in Software development & IoT
  -  🌱 I’m currently learning SQL
  -  💞️ I’m looking to collaborate on Cloud computing
- -   📫 How to reach me : [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mythili-sakthivel-2abab7263/) [<img src="https://pixabay.com/gifs/internet-computer-web-bussines-6622/"/]
+ -   📫 How to reach me : [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/mythili-sakthivel-2abab7263/)(https://pixabay.com/gifs/internet-computer-web-bussines-6622/)
  -  😄 Pronouns: She/Her
  -  ⚡ Fun fact: I am a Nature Lover🍀
  ---
