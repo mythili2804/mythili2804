@@ -1,5 +1,4 @@
-<img width="250" height="250" align="right" margintop="0" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif"/>
- Hi, I’m Mythili S,*Tech Enthusiast*
+Hi, I’m Mythili S,*Tech Enthusiast*
  -  👀 I’m interested in Software development & IoT
  -  🌱 I’m currently learning SQL
  -  💞️ I’m looking to collaborate on Cloud computing
